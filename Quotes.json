@@ -1,5 +1,17 @@
-{"quotes":[
-    {"id":0,"quote":"Hello my name is matt."},
-    {"id":1,"quote":"This is another Quote."},
-    {"id":2,"quote":"Over here is good."}
-]}
+[{
+    "id":0,
+    "imageLink":"https://s3.amazonaws.com/freecodecamp/funny-cat.jpg",
+    "codeNames":["Juggernaut","Mrs. Wallace","Buttercup"]
+},
+{
+    "id":1,
+    "imageLink":"https://s3.amazonaws.com/freecodecamp/grumpy-cat.jpg",
+    "codeNames":["Oscar","Scrooge","Tyrion"]
+    
+},
+{
+    "id":2,
+    "imageLink":"https://s3.amazonaws.com/freecodecamp/mischievous-cat.jpg",
+    "codeNames":["The Doctor","Loki","Joker"]
+    
+}]
