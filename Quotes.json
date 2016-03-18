@@ -1,17 +1,12 @@
 [{
     "id":0,
-    "imageLink":"https://s3.amazonaws.com/freecodecamp/funny-cat.jpg",
-    "codeNames":["Juggernaut","Mrs. Wallace","Buttercup"]
+    "quote":"I'm sorry, if you were right, I'd agree with you."
 },
 {
     "id":1,
-    "imageLink":"https://s3.amazonaws.com/freecodecamp/grumpy-cat.jpg",
-    "codeNames":["Oscar","Scrooge","Tyrion"]
-    
+    "quote":"Behind every great man is a woman rolling her eyes."
 },
 {
     "id":2,
-    "imageLink":"https://s3.amazonaws.com/freecodecamp/mischievous-cat.jpg",
-    "codeNames":["The Doctor","Loki","Joker"]
-    
+    "quote":"My fake plants died because I did not pretend to water them."
 }]
